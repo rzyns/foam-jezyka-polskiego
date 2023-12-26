@@ -27,5 +27,7 @@
   "git.alwaysSignOff": true,
   "git.autofetch": true,
   "markdown.extension.italic.indicator": "_",
-  "markdown.extension.preview.autoShowPreviewToSide": true
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "markdownExtended.disabledPlugins": "kbd",
+  "markdownExtended.pdfFormat": "Letter"
 }
