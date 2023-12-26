@@ -25,5 +25,6 @@
   "foam.files.notesExtensions": "mdx txt markdown",
   "foam.openDailyNote.onStartup": true,
   "git.alwaysSignOff": true,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "markdown.extension.italic.indicator": "_"
 }
